@@ -1,4 +1,4 @@
-name: Build intel 6-14 all roms
+name: Build Intel Ultra 125H roms
 
 on:
   push:
